@@ -20,3 +20,4 @@ Prepare-se para ver meu GitHub ganhar vida. Nunca é tarde para recomeçar e com
 #
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafapotiguar&show_icons=true&theme=react)
+[![roadmap.sh](https://roadmap.sh/card/wide/6616ee8e342426a4c80ba9d8?variant=dark)](https://roadmap.sh)
