@@ -18,3 +18,5 @@ Prepare-se para ver meu GitHub ganhar vida. Nunca é tarde para recomeçar e com
 
 📫 How to reach me: potiguarsolutions@gmail.com
 #
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafapotiguar&show_icons=true&theme=react)
