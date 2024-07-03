@@ -9,7 +9,7 @@
 # 
 📚 English: Yes, I can talk, write, listen and read.
 
-💬 Tell me your needs and call me to work!
+💬 Tell me your needs and call me to work! heloo mundogit add 
 
 📫 How to reach me: potiguarsolutions@gmail.com
 
