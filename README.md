@@ -26,7 +26,6 @@
         <a href="https://github.com/rafapotiguar/"></a>
             <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafapotiguar&hide_progress=true&layout=compact&langs_count=8&theme=react" />
         </a>
-        
-    </div>
-</div>
+ </div>
+
 
