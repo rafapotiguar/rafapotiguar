@@ -6,8 +6,9 @@
 
 💻 Conhecimentos e cursos em TI(Técnico de Hardware, Redes, SI, Agilidade, Scrum, Kanbam)
 
+
 <details>
-    <sumary> <b> More About Me: </b> </sumary>
+    <summary> <b> More About Me: </b> </summary>
     
 - 📚 English: Yes! I can talk, write, listen and read.
 - 💬 Tell me your needs and call me to work!
