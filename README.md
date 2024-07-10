@@ -1,4 +1,4 @@
-## ✨Rafael Queiroz✨
+## ✨Bem vindo(a), me chamo Rafael Queiroz!
 
 👨‍💻 Análise e Desenvolvimento de Sistemas;
 
@@ -6,11 +6,14 @@
 
 💻 Conhecimentos e cursos em TI(Técnico de Hardware, Redes, SI, Agilidade, Scrum, Kanbam)
 
-📚 English: Yes, I can talk, write, listen and read.
+<details>
+    <sumary> <b> More About Me: </b> </sumary>
+    
+- 📚 English: Yes! I can talk, write, listen and read.
+- 💬 Tell me your needs and call me to work!
+- 📫 How to reach me: potiguarsolutions@gmail.com
 
-💬 Tell me your needs and call me to work!
-
-📫 How to reach me: potiguarsolutions@gmail.com
+</details>
 
 #
 
