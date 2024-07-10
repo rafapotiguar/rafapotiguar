@@ -30,12 +30,6 @@
     </a>
 </div>
 
-<div style="display: inline-grid; position: relative; align-items: stretch; justify-content: space-between;">
-    <a href="https://github.com/rafapotiguar/">
-    <img src="https://github-readme-stats.vercel.app/api?username=rafapotiguar&show_icons=true&theme=react"  alt="GitHub Stats" />
-    </a>
-</div>
-
 #
 ### My Links, Stacks and Skills:
 <div style="display: flex; align-items: center; justify-content: space-between;">
@@ -59,6 +53,10 @@
           
 #
 
-
+<div style="display: flex; justify-content: space-between;">
+    <a href="https://github.com/rafapotiguar/">
+    <img src="https://github-readme-stats.vercel.app/api?username=rafapotiguar&show_icons=true&theme=react"  alt="GitHub Stats" />
+    </a>
+</div>
   
-       
+#       
