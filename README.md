@@ -20,7 +20,7 @@
 
 <div style="display: flex; position: initial; align-items: stretch; justify-content: space-between;">
     <a href="https://github.com/rafapotiguar/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafapotiguar&hide_progress=true&layout=compact&langs_count=8&theme=react"  alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafapotiguar&hide_progress=true&layout=compact&langs_count=4&theme=react"  alt="Top Languages" />
     </a>
 </div>
 
