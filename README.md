@@ -7,10 +7,15 @@
 
 <details>
     <summary> <b> More About Me: </b> </summary>
+  ✨Welcome, my name is Rafael Queiroz! <br>  
+I am a Software Engineer looking for new opportunities. <br>
+I work as a fullstack developer and have a passion for backend development. <br>
+I have 20 years of experience in IT and got back into software development three years ago. <br> <br>
+
     
-- 📚 English: Yes! I can talk, write, listen and read.
-- 💬 Tell me your needs and call me to work!
-- 📫 How to reach me: potiguarsolutions@gmail.com
+- 📚 English: Yes! I can speak, write, listen and read.
+- 💬 Let me know your needs and reach out to collaborate!
+- 📫 How to contact me: potiguarsolutions@gmail.com
 
 </details>
 
