@@ -1,7 +1,7 @@
 ## ✨Bem vindo(a), me chamo Rafael Queiroz!
 
-👨‍💻 Análise e Desenvolvimento de Sistemas;
-🌐 Desenvolvedor Back-end | Full Stack;
+👨‍💻 Análise e Desenvolvimento de Sistemas;  
+🌐 Desenvolvedor Back-end | Full Stack;  
 💻 (Javascript, NodeJS, C#, Docker, AWS, BD's, Scrum, Kanbam)
 
 
