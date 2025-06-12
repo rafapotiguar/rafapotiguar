@@ -1,12 +1,12 @@
 ## ✨Bem vindo(a), me chamo Rafael Queiroz!
 
 👨‍💻 Análise e Desenvolvimento de Sistemas;  
-🌐 Desenvolvedor Back-end | Full Stack;  
-💻 (Javascript, NodeJS, C#, Docker, AWS, BD's, Scrum, Kanban)
+💻 Desenvolvedor Back-end | Full Stack  
+(Javascript, NodeJS, C#, Docker, AWS, BD's, Scrum, Kanban)
 
 
 <details>
-    <summary> <b> More About Me: </b> </summary>
+    <summary> <b> 🌐 More About Me: </b> </summary>
   ✨Welcome, my name is Rafael Queiroz! <br>  
 I am a Software Engineer looking for new opportunities. <br>
 I work as a fullstack developer and have a passion for backend development. <br>
