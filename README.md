@@ -1,10 +1,8 @@
 ## ✨Bem vindo(a), me chamo Rafael Queiroz!
 
 👨‍💻 Análise e Desenvolvimento de Sistemas;
-
-🌐 Desenvolvedor Full Stack em constante aprendizado;
-
-💻 Conhecimentos e cursos em TI(Técnico de Hardware, Redes, SI, Agilidade, Scrum, Kanbam)
+🌐 Desenvolvedor Back-end | Full Stack;
+💻 (Javascript, NodeJS, C#, Docker, AWS, BD's, Scrum, Kanbam)
 
 
 <details>
