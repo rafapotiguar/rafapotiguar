@@ -1,4 +1,4 @@
-## ✨Bem vindo(a), me chamo Rafael Queiroz!
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF7A3&width=435&lines=%E2%9C%A8Ol%C3%A1%2C+seja+bem+vindo(a)...;me+chamo+Rafael+Queiroz!)](https://git.io/typing-svg)
 
 👨‍💻 Análise e Desenvolvimento de Sistemas;  
 💻 Desenvolvedor Back-end | Full Stack  
@@ -27,11 +27,9 @@ I have 20 years of experience in IT and got back into software development three
     </a>
 </div>
 
-<div style="display: inline-grid; position: relative; align-items: stretch; justify-content: space-between;">
-    <a href="https://roadmap.sh/u/rafael">
-    <img src="https://roadmap.sh/card/tall/6616ee8e342426a4c80ba9d8?variant=dark"  alt="Roadmap" />
-    </a>
-</div>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6616ee8e342426a4c80ba9d8?variant=dark&roadmaps=full-stack%2Cfrontend%2Cbackend%2Cdevops" alt="roadmap.sh"/></a>
+
+
 
 #
 ### My Links, Stacks and Skills:
